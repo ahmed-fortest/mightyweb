@@ -17,7 +17,7 @@ jobs:
       run: sudo apt-get install -y unzip
 
     - name: Unzip the file
-      run: unzip -o <webly-flutter>.zip -d <your-destination-folder>
+      run: unzip -o <webly-flutter>.zip -d <mightyweb>
 
     - name: Commit unzipped files
       run: |
