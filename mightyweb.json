@@ -424,5 +424,21 @@
             "ios": "Mozilla\/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/12.1 Mobile\/15E148 Safari\/604.1",
             "status": "1"
         }
+    ],
+    "pages": [
+        {
+            "id": "1",
+            "title": "Google",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/1724435521-a5olz_14030524_150230592.jpg",
+            "url": "https:\/\/www.google.com",
+            "status": "1"
+        },
+        {
+            "id": "2",
+            "title": "",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/default.png",
+            "url": "",
+            "status": "0"
+        }
     ]
 }
