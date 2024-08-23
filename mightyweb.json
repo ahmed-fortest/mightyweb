@@ -1,27 +1,27 @@
 {
     "appconfiguration": {
-        "app_name": "MightyWeb",
+        "app_name": "wrwtrw",
         "url": "https:\/\/getpubguc.pythonanywhere.com",
-        "appLanuguage": "en",
+        "appLanuguage": "ar",
         "isJavascriptEnable": "true",
         "isSplashScreen": "false",
         "isZoomFunctionality": "false",
         "navigationStyle": "sidedrawer",
         "header_style": "center",
-        "is_walkthrough": "false",
-        "is_webrtc": "true",
+        "is_walkthrough": "true",
+        "is_webrtc": "false",
         "is_floating_button": "false",
-        "floating_button_style": "regular",
+        "floating_button_style": "circular",
         "is_pull_refresh": "true",
         "tab_style": "tab_with_title_icon",
         "bottom_navigation": "bottom_navigation_3",
-        "walkthrough_style": "walkthrough_style_2",
+        "walkthrough_style": "walkthrough_style_3",
         "clear_cookie": "false",
-        "isExitPopupScreen": "false",
-        "disable_header": "false",
-        "disable_footer": "false",
-        "app_logo": "https:\/\/flyweb123.free.nf\/upload\/app_logo.png",
-        "floating_button": "https:\/\/flyweb123.free.nf\/upload\/floating_button.png"
+        "isExitPopupScreen": "true",
+        "disable_header": "true",
+        "disable_footer": "true",
+        "app_logo": "http:\/\/localhost\/mightyweb\/upload\/app_logo.png",
+        "floating_button": "http:\/\/localhost\/mightyweb\/upload\/floating_button.png"
     },
     "admob": {
         "ads_type": "none",
@@ -36,16 +36,16 @@
     },
     "progressbar": {
         "is_progressbar": "true",
-        "loaderStyle": "FadingCircle"
+        "loaderStyle": "Wave"
     },
     "theme": {
-        "themeStyle": "Theme6",
+        "themeStyle": "Default",
         "customColor": null,
         "gradientColor1": null,
         "gradientColor2": null
     },
     "about": {
-        "whatsAppNumber": "98796543210",
+        "whatsAppNumber": "+976772492426",
         "instagramUrl": "https:\/\/www.instagram.com\/",
         "twitterUrl": "https:\/\/twitter.com\/login",
         "facebookUrl": "https:\/\/www.facebook.com\/",
@@ -54,29 +54,31 @@
         "skype": "https:\/\/www.skype.com\/en\/",
         "messenger": "https:\/\/www.messenger.com\/",
         "youtube": "https:\/\/www.youtube.com\/",
-        "isShowAbout": "true"
+        "isShowAbout": "true",
+        "copyright": "",
+        "description": "هذا التطبيق فقط للتجربة"
     },
     "onesignal_configuration": {
         "app_id": "987470c5-6079-48b7-8752-b61550992ca8",
         "rest_api_key": "NzFiZTY5YzItNDc4Yi00NzAxLWIxNDktZDdiNzAwMTdmNjNh"
     },
     "splash_configuration": {
-        "first_color": "#ff0000",
-        "second_color": "#ff0000",
-        "title": "Mighty Web",
+        "first_color": "#3788ff",
+        "second_color": "#fbb904",
+        "title": "Ahmed",
         "enable_title": "true",
-        "title_color": "#000000",
+        "title_color": "#ffffff",
         "enable_logo": "true",
-        "enable_background": "false",
-        "splash_logo_url": "http:\/\/flyweb123.free.nf\/upload\/splash_logo.png",
-        "splash_background_url": "http:\/\/flyweb123.free.nf\/upload\/splash_background.png"
+        "enable_background": "true",
+        "splash_logo_url": "http:\/\/localhost\/mightyweb\/upload\/splash_logo.png",
+        "splash_background_url": "http:\/\/localhost\/mightyweb\/upload\/splash_background.png"
     },
     "exitpopup_configuration": {
-        "title": "Do you want to exit at this moment? ",
-        "positive_text": "Yes",
-        "negative_text": "No",
+        "title": "هل تريد الخروج  فعلاً",
+        "positive_text": "نعم",
+        "negative_text": "لا",
         "enable_image": "true",
-        "exit_image_url": "https:\/\/meetmighty.com\/mightywebbuilder\/upload\/cancel.png"
+        "exit_image_url": "http:\/\/localhost\/mightyweb\/upload\/cancel.png"
     },
     "share_content": {
         "share": "share conntentt https:\/\/meetmighty.com\/mighty\/contact\/"
@@ -86,8 +88,18 @@
             "id": "7",
             "title": "About",
             "type": "sidedrawer",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/menu\/1618655222-icon_4.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/menu\/1618655222-icon_4.png",
             "url": "https:\/\/themeforest.net\/user\/meetmighty",
+            "status": "1",
+            "parent_id": "0",
+            "children": []
+        },
+        {
+            "id": "8",
+            "title": "القسائم",
+            "type": "sidedrawer",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/menu\/1724262038-telegram.png",
+            "url": "https:\/\/temp-mail.org\/en",
             "status": "1",
             "parent_id": "0",
             "children": []
@@ -357,14 +369,14 @@
             "id": "1",
             "title": "Mighty Web",
             "subtitle": "MightyWeb app is used to convert your Website to Application Mobile",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/walkthrough\/default.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/walkthrough\/default.png",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Theme Style",
             "subtitle": "Mighty Web holds stunning options of Theme styles that you can apply to your mobile app to define your app better.",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/walkthrough\/default.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/walkthrough\/default.png",
             "status": "1"
         }
     ],
@@ -372,28 +384,28 @@
         {
             "id": "1",
             "title": "Search",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_search.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/floatingbutton\/ic_search.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Message",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_message.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/floatingbutton\/ic_message.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "3",
             "title": "Share",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_share.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/floatingbutton\/ic_share.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "4",
             "title": "Home",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_home.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/floatingbutton\/ic_home.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         }
@@ -402,28 +414,28 @@
         {
             "id": "1",
             "title": "Home",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/tabs\/ic_home.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/tabs\/ic_home.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Search",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/tabs\/ic_search.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/tabs\/ic_search.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "3",
             "title": "Profile",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/tabs\/ic_profile.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/tabs\/ic_profile.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "4",
             "title": "Wishlist",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/tabs\/ic_heart.png",
+            "image": "http:\/\/localhost\/mightyweb\/upload\/tabs\/ic_heart.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         }
@@ -432,7 +444,7 @@
         {
             "id": "1",
             "title": "Web Browser",
-            "android": "Mozilla\/5.0 (Linux; Android 10; SM-G973F) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/91.0.4472.124 Mobile Safari\/537.36",
+            "android": "random",
             "ios": "Mozilla\/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit\/605.1.15 (KHTML, like Gecko) Version\/12.1 Mobile\/15E148 Safari\/604.1",
             "status": "1"
         }
