@@ -1,7 +1,7 @@
 {
     "appconfiguration": {
         "app_name": "Salam",
-        "url": "https:\/\/getpubguc.pythonanywhere.com",
+        "url": "https:\/\/www.google.com",
         "appLanuguage": "en",
         "isJavascriptEnable": "true",
         "isSplashScreen": "false",
