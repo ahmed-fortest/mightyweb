@@ -1,12 +1,12 @@
 {
     "appconfiguration": {
-        "app_name": "MightyWeb",
+        "app_name": "Ana",
         "url": "https:\/\/getpubguc.pythonanywhere.com",
         "appLanuguage": "en",
         "isJavascriptEnable": "true",
         "isSplashScreen": "false",
         "isZoomFunctionality": "false",
-        "navigationStyle": "sidedrawer",
+        "navigationStyle": "fullscreen",
         "header_style": "center",
         "is_walkthrough": "false",
         "is_webrtc": "true",
@@ -81,18 +81,6 @@
     "share_content": {
         "share": "share conntentt https:\/\/meetmighty.com\/mighty\/contact\/"
     },
-    "menu_style": [
-        {
-            "id": "7",
-            "title": "About",
-            "type": "sidedrawer",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/menu\/1618655222-icon_4.png",
-            "url": "https:\/\/themeforest.net\/user\/meetmighty",
-            "status": "1",
-            "parent_id": "0",
-            "children": []
-        }
-    ],
     "header_icon": {
         "lefticon": [
             {
