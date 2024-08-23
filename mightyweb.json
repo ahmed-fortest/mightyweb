@@ -36,10 +36,10 @@
     },
     "progressbar": {
         "is_progressbar": "true",
-        "loaderStyle": "FadingCircle"
+        "loaderStyle": "Wave"
     },
     "theme": {
-        "themeStyle": "Theme6",
+        "themeStyle": "Theme3",
         "customColor": null,
         "gradientColor1": null,
         "gradientColor2": null
@@ -101,7 +101,7 @@
                 "image": "ic_back2.png",
                 "type": "event",
                 "url": null,
-                "status": "1",
+                "status": "0",
                 "created_at": "2021-04-09 05:19:27",
                 "updated_at": "2021-04-09 05:19:27"
             },
@@ -156,7 +156,7 @@
                 "image": "ic_add.png",
                 "type": "url",
                 "url": "https:\/\/www.google.com\/",
-                "status": "0",
+                "status": "1",
                 "created_at": "2021-04-09 05:20:51",
                 "updated_at": "2021-04-09 05:20:51"
             }
@@ -334,7 +334,7 @@
                 "image": "ic_qr_code.png",
                 "type": "event",
                 "url": null,
-                "status": "0",
+                "status": "1",
                 "created_at": "2022-07-25 05:10:36",
                 "updated_at": null
             }
