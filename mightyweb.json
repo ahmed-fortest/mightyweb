@@ -1,6 +1,6 @@
 {
     "appconfiguration": {
-        "app_name": "test",
+        "app_name": "End suc",
         "url": "https:\/\/temp-mail.org\/en",
         "appLanuguage": "ar",
         "isJavascriptEnable": "true",
@@ -20,8 +20,8 @@
         "isExitPopupScreen": "true",
         "disable_header": "false",
         "disable_footer": "false",
-        "app_logo": "https:\/\/flyweb123.free.nf\/upload\/app_logo.png",
-        "floating_button": "https:\/\/flyweb123.free.nf\/upload\/floating_button.png"
+        "app_logo": "https:\/\/flyweb123.free.nf&i=1\/upload\/app_logo.png",
+        "floating_button": "https:\/\/flyweb123.free.nf&i=1\/upload\/floating_button.png"
     },
     "admob": {
         "ads_type": "none",
