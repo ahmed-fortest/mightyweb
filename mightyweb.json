@@ -2,7 +2,7 @@
     "appconfiguration": {
         "app_name": "Salam",
         "url": "https:\/\/getpubguc.pythonanywhere.com",
-        "appLanuguage": "ar",
+        "appLanuguage": "en",
         "isJavascriptEnable": "true",
         "isSplashScreen": "false",
         "isZoomFunctionality": "false",
