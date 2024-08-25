@@ -1,6 +1,6 @@
 {
     "appconfiguration": {
-        "app_name": "Ana",
+        "app_name": "My Webs",
         "url": "https:\/\/getpubguc.pythonanywhere.com",
         "appLanuguage": "ar",
         "isJavascriptEnable": "true",
