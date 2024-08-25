@@ -39,7 +39,7 @@
         "loaderStyle": "Wave"
     },
     "theme": {
-        "themeStyle": "Theme3",
+        "themeStyle": "Theme16",
         "customColor": null,
         "gradientColor1": null,
         "gradientColor2": null
@@ -435,10 +435,10 @@
         },
         {
             "id": "2",
-            "title": "",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/default.png",
-            "url": "",
-            "status": "0"
+            "title": "Admin Panel",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/1724599567-icoWhatsapp.png",
+            "url": "https:\/\/flyweb123.free.nf",
+            "status": "1"
         }
     ]
 }
