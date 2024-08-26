@@ -81,6 +81,18 @@
     "share_content": {
         "share": "share conntentt https:\/\/meetmighty.com\/mighty\/contact\/"
     },
+    "menu_style": [
+        {
+            "id": "8",
+            "title": "ahmed",
+            "type": "sidedrawer",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/menu\/1724697013-telegram.png",
+            "url": "https:\/\/temp-mail.org\/en",
+            "status": "1",
+            "parent_id": "0",
+            "children": []
+        }
+    ],
     "header_icon": {
         "lefticon": [
             {
