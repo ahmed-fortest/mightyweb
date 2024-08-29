@@ -39,10 +39,10 @@
         "loaderStyle": "Wave"
     },
     "theme": {
-        "themeStyle": "Theme16",
+        "themeStyle": "Gradient",
         "customColor": null,
-        "gradientColor1": null,
-        "gradientColor2": null
+        "gradientColor1": "#00ff00",
+        "gradientColor2": "#ff00ff"
     },
     "about": {
         "whatsAppNumber": "98796543210",
