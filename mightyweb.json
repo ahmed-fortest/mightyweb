@@ -2,11 +2,11 @@
     "appconfiguration": {
         "app_name": "My Webs",
         "url": "https:\/\/getpubguc.pythonanywhere.com",
-        "appLanuguage": "ar",
+        "appLanuguage": "en",
         "isJavascriptEnable": "true",
         "isSplashScreen": "false",
         "isZoomFunctionality": "false",
-        "navigationStyle": "sidedrawer_bottom_navigation",
+        "navigationStyle": "sidedrawer",
         "header_style": "center",
         "is_walkthrough": "false",
         "is_webrtc": "true",
@@ -19,7 +19,7 @@
         "clear_cookie": "false",
         "isExitPopupScreen": "false",
         "disable_header": "false",
-        "disable_footer": "true",
+        "disable_footer": "false",
         "app_logo": "https:\/\/flyweb123.free.nf\/upload\/app_logo.png",
         "floating_button": "https:\/\/flyweb123.free.nf\/upload\/floating_button.png"
     },
@@ -82,46 +82,6 @@
         "share": "share conntentt https:\/\/meetmighty.com\/mighty\/contact\/"
     },
     "menu_style": [
-        {
-            "id": "1",
-            "title": "Home",
-            "type": "bottom_navigation",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/menu\/1724778961-a5olz_14030524_150232505.jpg",
-            "url": "https:\/\/meetmighty.com\/mightywebbuilder",
-            "status": "1",
-            "parent_id": "0",
-            "children": []
-        },
-        {
-            "id": "2",
-            "title": "Search",
-            "type": "bottom_navigation",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/menu\/1618040523-ic_search.png",
-            "url": "https:\/\/codecanyon.net\/user\/meetmighty\/portfolio",
-            "status": "1",
-            "parent_id": "0",
-            "children": []
-        },
-        {
-            "id": "3",
-            "title": "Cart",
-            "type": "bottom_navigation",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/menu\/1618040544-ic_cart.png",
-            "url": "https:\/\/www.myntra.com\/",
-            "status": "1",
-            "parent_id": "0",
-            "children": []
-        },
-        {
-            "id": "4",
-            "title": "Settings",
-            "type": "bottom_navigation",
-            "image": "https:\/\/flyweb123.free.nf\/upload\/menu\/1618040565-ic_settings.png",
-            "url": "https:\/\/www.google.com\/",
-            "status": "1",
-            "parent_id": "0",
-            "children": []
-        },
         {
             "id": "8",
             "title": "ahmed",
