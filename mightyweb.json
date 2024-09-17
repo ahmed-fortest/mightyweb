@@ -451,6 +451,13 @@
             "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/1724599567-icoWhatsapp.png",
             "url": "https:\/\/flyweb123.free.nf",
             "status": "1"
+        },
+        {
+            "id": "3",
+            "title": "Colab",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/default.png",
+            "url": "https:\/\/colab.research.google.com",
+            "status": "1"
         }
     ]
 }
