@@ -39,7 +39,7 @@
         "loaderStyle": "Wave"
     },
     "theme": {
-        "themeStyle": "Theme15",
+        "themeStyle": "Theme6",
         "customColor": null,
         "gradientColor1": null,
         "gradientColor2": null
@@ -86,7 +86,7 @@
             "id": "9",
             "title": "Colab",
             "type": "sidedrawer",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/menu\/default.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/menu\/default.png",
             "url": "https:\/\/colab.research.google.com",
             "status": "1",
             "parent_id": "0",
@@ -357,14 +357,14 @@
             "id": "1",
             "title": "Mighty Web",
             "subtitle": "MightyWeb app is used to convert your Website to Application Mobile",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/walkthrough\/default.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/walkthrough\/default.png",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Theme Style",
             "subtitle": "Mighty Web holds stunning options of Theme styles that you can apply to your mobile app to define your app better.",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/walkthrough\/default.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/walkthrough\/default.png",
             "status": "1"
         }
     ],
@@ -372,28 +372,28 @@
         {
             "id": "1",
             "title": "Search",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_search.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_search.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Message",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_message.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_message.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "3",
             "title": "Share",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_share.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_share.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "4",
             "title": "Home",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_home.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/floatingbutton\/ic_home.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         }
@@ -402,28 +402,28 @@
         {
             "id": "1",
             "title": "Home",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/tabs\/ic_home.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/tabs\/ic_home.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Search",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/tabs\/ic_search.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/tabs\/ic_search.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "3",
             "title": "Profile",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/tabs\/ic_profile.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/tabs\/ic_profile.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         },
         {
             "id": "4",
             "title": "Wishlist",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/tabs\/ic_heart.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/tabs\/ic_heart.png",
             "url": "https:\/\/www.google.com\/",
             "status": "1"
         }
@@ -441,21 +441,21 @@
         {
             "id": "1",
             "title": "Google",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/pages\/1724435521-a5olz_14030524_150230592.jpg",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/1724435521-a5olz_14030524_150230592.jpg",
             "url": "https:\/\/www.google.com",
             "status": "1"
         },
         {
             "id": "2",
             "title": "Admin Panel",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/pages\/1724599567-icoWhatsapp.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/1724599567-icoWhatsapp.png",
             "url": "https:\/\/flyweb123.free.nf",
             "status": "1"
         },
         {
             "id": "3",
             "title": "Colab",
-            "image": "http:\/\/flyweb123.free.nf\/upload\/pages\/default.png",
+            "image": "https:\/\/flyweb123.free.nf\/upload\/pages\/default.png",
             "url": "https:\/\/colab.research.google.com",
             "status": "1"
         }
